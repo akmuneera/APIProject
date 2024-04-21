@@ -47,7 +47,6 @@ public class Homework08 extends PlaceHolderBaseUrl {
 
             response.prettyPrint();
 
-            //ASSERTIONS:-
 
             response
                     .then()
