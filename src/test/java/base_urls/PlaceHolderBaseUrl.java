@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeMethod;
             public void setSpec() {
 
                 spec = new RequestSpecBuilder()
-                        .setBaseUri("https://reqres.in/api/users")
+                        .setBaseUri("https://petstore.swagger.io/")
                         .setContentType(ContentType.JSON)
                         .build();
 
