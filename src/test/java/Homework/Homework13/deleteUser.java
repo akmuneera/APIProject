@@ -15,7 +15,6 @@ public class deleteUser extends homework {
                     .delete(url + "/" + Data.getUsername());
             response.prettyPrint();
 
-            //do assertion
             response
                     .then()
                     .assertThat()

@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a857a9b-2db7-4992-a422-1e37702a079a" name="Changes" comment="adding homework">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework13/deleteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework13/getUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework13/homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework13/postUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework13/putUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework15/createUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework15/deleteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework15/readUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Homework/Homework15/updateUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/POJO/UserContactsPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/POJO/UserPetStorePojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base_urls/BookerBaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base_urls/Homework15BaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base_urls/JsonPlaceHolderPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requests/AssertHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requests/AssertHeaderAndBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requests/JsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requests/PatchRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requests/RequestAndResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_data/JsonPlaceHolderTestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ObjectMapperUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a857a9b-2db7-4992-a422-1e37702a079a" name="Changes" comment="adding homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,30 +29,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Homework03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RequestAndResponse.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.AssertHeader.asserHeaderMethod.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AssertHeader.assertHeaderMethod.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.AssertHeaderAndBody.assertionMethod.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework05.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework06.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework07.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework08.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework09.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework10.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Homework11.homework.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.JsonPath.jsonPathTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Homework03.executor": "Run",
+    "Application.Homework04.executor": "Run",
+    "Application.Homework05.executor": "Run",
+    "Application.RequestAndResponse.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AssertHeader.asserHeaderMethod.executor": "Run",
+    "TestNG.AssertHeader.assertHeaderMethod.executor": "Run",
+    "TestNG.AssertHeaderAndBody.assertionMethod.executor": "Run",
+    "TestNG.Homework05.homework.executor": "Run",
+    "TestNG.Homework06.homework.executor": "Run",
+    "TestNG.Homework07.homework.executor": "Run",
+    "TestNG.Homework08.homework.executor": "Run",
+    "TestNG.Homework09.homework.executor": "Run",
+    "TestNG.Homework10.homework.executor": "Run",
+    "TestNG.Homework11.homework.executor": "Run",
+    "TestNG.Homework16.homework.executor": "Run",
+    "TestNG.JsonPath.jsonPathTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.Homework16.homework">
     <configuration name="Homework05.homework" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIProject" />
@@ -218,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714239406889</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding homework">
+      <option name="closed" value="true" />
+      <created>1714836088499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714836088499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
